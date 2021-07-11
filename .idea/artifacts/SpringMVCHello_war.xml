@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVCHello:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringMVCHello</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringMVCHello-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringMVCHello:war exploded" />
+    </root>
+  </artifact>
+</component>
