@@ -9,7 +9,7 @@
 <body>
 	<h1>Spring MVC Hello World!</h1>
 	<a href="hello">hello</a>
-	
+
 	<h2>Hien thi them 1 dong nay nha nha, t sua dong nay nha nha</h2>
 </body>
 </html>
